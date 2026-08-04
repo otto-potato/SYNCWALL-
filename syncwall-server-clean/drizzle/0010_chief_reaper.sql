@@ -1,0 +1,1 @@
+ALTER TABLE `calibration_state` ADD `target_device_id` integer;

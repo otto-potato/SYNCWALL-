@@ -1,0 +1,1 @@
+ALTER TABLE `devices` ADD `calibration_dispatched_at` integer;

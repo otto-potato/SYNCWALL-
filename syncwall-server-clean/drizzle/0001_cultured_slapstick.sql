@@ -1,0 +1,1 @@
+CREATE INDEX `devices_last_seen_idx` ON `devices` (`last_seen`);

@@ -1,0 +1,1 @@
+ALTER TABLE `sync_state` ADD `timecode_rate` text DEFAULT '25' NOT NULL;
